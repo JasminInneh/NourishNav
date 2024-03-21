@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./favorites.css";
+
 const Favorites = () => {
   const [favorites, setFavorites] = useState([]);
 
